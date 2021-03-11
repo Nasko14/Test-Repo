@@ -125,5 +125,6 @@ int main() {
     printf("DEBUG$\n");
     print_list(&result);
 
+    printf("Uspqh...");
     return 0;
 }
